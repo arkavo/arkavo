@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the things I'm interested in
 - 💞️ I’m looking to collaborate on anything I'm interested in actually, maybe more.
 - 📫 How to reach me? just drop me a line arkavohait@gmail.com
-
+- 👋 Socials at [@Arkavo1](https://twitter.com/Arkavo1)
 <!---
 arkavo/arkavo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
